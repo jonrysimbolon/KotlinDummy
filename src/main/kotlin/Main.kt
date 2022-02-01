@@ -3,6 +3,6 @@ fun main(args: Array<String>) {
     println("Program arguments: ${args.joinToString()}")
 }
 
-fun Berhitungg(a: Int, b: Int): Int {
+fun tambahNumber(a: Int, b: Int): Int {
     return a + b
 }
