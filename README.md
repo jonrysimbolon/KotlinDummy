@@ -1,4 +1,2 @@
 # KotlinDummy
-Kotlin-Dummy
-
--tempat saya bermain-main dengan kotlin dan github
+Tempat saya bermain-main dengan kotlin dan github
