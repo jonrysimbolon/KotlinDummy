@@ -10,4 +10,10 @@ class BerhitungTest {
         val c = tambahNumber(2,3)
         assertEquals(5, c,"Benar")
     }
+
+    @Test
+    fun testKurang(){
+        val c = kurangNumber(2,3)
+        assertEquals(-1, c,"Benar")
+    }
 }

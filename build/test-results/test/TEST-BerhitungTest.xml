@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BerhitungTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-03T05:35:26" hostname="Jonrys-MacBook-Air.local" time="0.037">
+  <properties/>
+  <testcase name="testKurang" classname="BerhitungTest" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
